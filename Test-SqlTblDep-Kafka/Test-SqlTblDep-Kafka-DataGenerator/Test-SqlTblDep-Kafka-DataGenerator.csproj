@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Test_SqlTblDep_Kafka_DataGenerator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Test-SqlTblDep-Infrastructure\Test-SqlTblDep-Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

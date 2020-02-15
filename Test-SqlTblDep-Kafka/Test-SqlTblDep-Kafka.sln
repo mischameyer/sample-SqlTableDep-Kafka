@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Kafka", "Test-SqlTblDep-Kafka\Test-SqlTblDep-Kafka.csproj", "{A833AC7F-7862-4911-A1F8-E6507E01792D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Infrastructure", "Test-SqlTblDep-Infrastructure\Test-SqlTblDep-Infrastructure.csproj", "{C244B6BE-AFBD-43CC-A973-B67492D00044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Kafka-DataGenerator", "Test-SqlTblDep-Kafka-DataGenerator\Test-SqlTblDep-Kafka-DataGenerator.csproj", "{7337CE3E-AE0A-4822-BC02-FD6C13000637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A833AC7F-7862-4911-A1F8-E6507E01792D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A833AC7F-7862-4911-A1F8-E6507E01792D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A833AC7F-7862-4911-A1F8-E6507E01792D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A833AC7F-7862-4911-A1F8-E6507E01792D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C244B6BE-AFBD-43CC-A973-B67492D00044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C244B6BE-AFBD-43CC-A973-B67492D00044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C244B6BE-AFBD-43CC-A973-B67492D00044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C244B6BE-AFBD-43CC-A973-B67492D00044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7337CE3E-AE0A-4822-BC02-FD6C13000637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7337CE3E-AE0A-4822-BC02-FD6C13000637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7337CE3E-AE0A-4822-BC02-FD6C13000637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7337CE3E-AE0A-4822-BC02-FD6C13000637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5306AE22-330D-4756-87C0-C6F3EB612DBF}
+	EndGlobalSection
+EndGlobal
