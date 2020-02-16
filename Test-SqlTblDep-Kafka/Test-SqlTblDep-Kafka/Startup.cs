@@ -28,6 +28,8 @@ namespace Test_SqlTblDep_Kafka
             services.AddLogging();
             services.AddSingleton<IConfigurationRoot>(Configuration);
             services.AddSingleton<IGenerateTestData, GenerateTestData>();
+            services.AddSingleton<IListener, Listener>();
+            services.AddSingleton<IProducer, Producer>();
         }
     }
 }
