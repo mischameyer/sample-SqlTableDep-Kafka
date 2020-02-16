@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Kafka", "Test-SqlTblDep-Kafka\Test-SqlTblDep-Kafka.csproj", "{A833AC7F-7862-4911-A1F8-E6507E01792D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-SqlTblDep-Kafka", "Test-SqlTblDep-Kafka\Test-SqlTblDep-Kafka.csproj", "{A833AC7F-7862-4911-A1F8-E6507E01792D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Infrastructure", "Test-SqlTblDep-Infrastructure\Test-SqlTblDep-Infrastructure.csproj", "{C244B6BE-AFBD-43CC-A973-B67492D00044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-SqlTblDep-Infrastructure", "Test-SqlTblDep-Infrastructure\Test-SqlTblDep-Infrastructure.csproj", "{C244B6BE-AFBD-43CC-A973-B67492D00044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-SqlTblDep-Kafka-DataGenerator", "Test-SqlTblDep-Kafka-DataGenerator\Test-SqlTblDep-Kafka-DataGenerator.csproj", "{7337CE3E-AE0A-4822-BC02-FD6C13000637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-SqlTblDep-Kafka-DataGenerator", "Test-SqlTblDep-Kafka-DataGenerator\Test-SqlTblDep-Kafka-DataGenerator.csproj", "{7337CE3E-AE0A-4822-BC02-FD6C13000637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

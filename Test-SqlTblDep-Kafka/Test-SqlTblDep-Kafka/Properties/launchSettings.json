@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Test-SqlTblDep-Kafka": {
+      "commandName": "Project",
+      "commandLineArgs": "-action listen"
+    }
+  }
+}
